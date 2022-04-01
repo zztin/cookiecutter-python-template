@@ -35,7 +35,7 @@
 ## Usage
 
 ```sh
-cookiecutter https://github.com/Lee-W/cookiecutter-python-template
+cookiecutter https://github.com/zztin/cookiecutter-python-template
 ```
 
 * Add required secrets to your GitHub repository secrets
@@ -46,4 +46,4 @@ cookiecutter https://github.com/Lee-W/cookiecutter-python-template
         * Refer to [How can I use API tokens to authenticate with PyPI?](https://pypi.org/help/#apitoken) to generate one. Note that username `__token__` has been setup in the project
 
 ## Authors
-[Lee-W](https://github.com/Lee-W)
+[Liting Chen](https://github.com/zztin)
